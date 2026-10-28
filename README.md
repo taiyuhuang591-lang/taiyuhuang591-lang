@@ -21,7 +21,7 @@ I am currently focusing on **Linux, Docker, Cloud, Backend, and Cybersecurity**,
 - Connected approved data to cloud AI services for evaluation
 - Deployed and tested the project demo environment on GCP
 
-**Tech:** Linux / Docker / REST API / PostgreSQL / GCP / Cloud AI
+**Tech:** Linux / Docker / PostgreSQL / GCP 
 
 ### Metis — Cybersecurity Training Platform
 - Built Blue Team backend services and Linux target environments
@@ -29,7 +29,7 @@ I am currently focusing on **Linux, Docker, Cloud, Backend, and Cybersecurity**,
 - Troubleshot container startup, permissions, ports, and service connectivity
 - Practiced Linux access control and least-privilege security concepts
 
-**Tech:** Linux / Docker / Backend / Networking / Git / GitHub
+**Tech:** Linux / Docker / Backend / Git / GitHub
 
 ## Tech Stack
 
